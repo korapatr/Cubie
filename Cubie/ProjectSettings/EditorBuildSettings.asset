@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 96c9a9b0dbf64cc4d99410c6ed6a661c
+  - enabled: 1
+    path: Assets/Scenes/EndGameScene.unity
+    guid: 53e027c3e742faf44b687f66d87e75c2
+  - enabled: 1
+    path: Assets/Scenes/ModeScene.unity
+    guid: b6a6dc0707d9ee14a9fa9a2cd31308fb
+  - enabled: 1
+    path: Assets/Scenes/VolumeMath.unity
+    guid: a4cd18b6b0b94ae4c912cd69b1806a07
+  - enabled: 1
+    path: Assets/Scenes/LessonMode.unity
+    guid: 5b2b10f54ce0486429a12ec0326abec1
+  - enabled: 1
+    path: Assets/Scenes/AreaPage.unity
+    guid: 36ae3b9556790204c9ce6990193b2eaa
+  - enabled: 1
+    path: Assets/Scenes/Area1.unity
+    guid: 2574317557493964ab4e470cbb9db334
+  - enabled: 1
+    path: Assets/Scenes/Area2.unity
+    guid: be437decad60df34dafa9cd60d02c2dd
+  - enabled: 1
+    path: Assets/Scenes/Area3.unity
+    guid: 12a3a52fe0d43004692ee4ee872088d9
+  - enabled: 1
+    path: Assets/Scenes/Area4.unity
+    guid: 1ba89d635bc78f746af0ba35b2589ddd
+  - enabled: 1
+    path: Assets/Scenes/Area5.unity
+    guid: ed1f005f21757384baffdfb5d2ccace5
+  - enabled: 1
+    path: Assets/Scenes/Area6.unity
+    guid: 2d1fa480ab47e2a439a762e06bb5f22f
+  - enabled: 1
+    path: Assets/Scenes/Area7.unity
+    guid: b39ae85bf6b1fa04fa8c0dffd556f374
+  - enabled: 1
+    path: Assets/Scenes/VolumePage.unity
+    guid: 80cdfa043048ed14b865b51ad0ab0095
+  - enabled: 1
+    path: Assets/Scenes/Volume1.unity
+    guid: bdd959b04c9b9c5499880ba0e6cbea34
+  - enabled: 1
+    path: Assets/Scenes/Volume2.unity
+    guid: c17af781387c7134e936532a6a9db203
+  - enabled: 1
+    path: Assets/Scenes/Volume3.unity
+    guid: 4b1c3036461ffaa4982ff446ce795c8c
+  - enabled: 1
+    path: Assets/Scenes/Volume4.unity
+    guid: 8331ef427d50f7d419a9cb436ffb07ee
+  - enabled: 1
+    path: Assets/Scenes/Volume5.unity
+    guid: 683715ba13806b546a9620d313bc7f4a
+  - enabled: 1
+    path: Assets/Scenes/Volume6.unity
+    guid: 1769297ff3e769540aa9053cc19aa424
+  - enabled: 1
+    path: Assets/Scenes/Volume7.unity
+    guid: ca46a8dc2b31ae54fa226ced6383c9dd
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: 3b9fd927d6a12b043982af6f01d207ab
+  m_configObjects: {}
